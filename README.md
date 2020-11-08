@@ -1,7 +1,5 @@
 # Provas POSCOMP Resolvidas
 
-## Provas, gabaritos e soluções
-
 |   Ano    |                            Arquivos                                            |
 |----------|--------------------------------------------------------------------------------|
 | 2019     | [Prova](./2019/caderno_2019.pdf) -  [Gabarito](./2019/gabarito_2019.pdf) -  [Solução](https://docs.google.com/document/d/1bqMUPPImXgqMb_nRrsVDRwwuCo0oP5imdKXSjQNscVg/edit?usp=sharing) |
